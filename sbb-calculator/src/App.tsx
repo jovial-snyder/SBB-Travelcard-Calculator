@@ -1729,7 +1729,7 @@ const SBBCalculator: React.FC<SBBCalculatorProps> = () => {
                 </div>
                 <div className="mt-3">
                   <a
-                    href="https://www.sbb.ch/de/kaufen/pages/bestellung/bestellungen.xhtml"
+                    href="https://www.sbb.ch/de/profil/bestellungen"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-3 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg transition-all duration-200 hover:scale-105 shadow-sm hover:shadow-md text-sm font-medium"
